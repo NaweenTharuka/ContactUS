@@ -12,14 +12,6 @@
         <link rel="stylesheet" href="css/stylesheet.css"> 
 		<title>Feedbacks</title> 
 </head> 
-<style>
- body{
-  font-family: 'Nunito';
-  background-image:url(images/IMG_9830.JPG);
-  background-size:cover;
-  background-attachment:fixed;
-}
-</style> 
 <body>  
   
 <%@page import="com.javatpoint.dao.ContactUsDao,com.javatpoint.bean.*,java.util.*"%>  
